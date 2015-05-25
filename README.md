@@ -28,7 +28,7 @@ interpreting experimental results.
 The output of the script is a result of the test and a graph illustrating
 the two distributions.
 
-ver. 1.0 2011
-ver. 1.1 2014
+Installation
+------------
 
-Maciej Workiewicz 2014
+The script has been tested with Python 2.7 (Anaconda Python Distribution - Windows 8.1 64-bit)
